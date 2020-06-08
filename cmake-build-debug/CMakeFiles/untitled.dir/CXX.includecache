@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Yasmin Soares/CLionProjects/untitled/DoublyLinkedList.h
+utility
+-
+Node.h
+/cygdrive/c/Users/Yasmin Soares/CLionProjects/untitled/Node.h
+
+/cygdrive/c/Users/Yasmin Soares/CLionProjects/untitled/Map.h
+utility
+-
+typeinfo
+-
+string
+-
+Node.h
+/cygdrive/c/Users/Yasmin Soares/CLionProjects/untitled/Node.h
+DoublyLinkedList.h
+/cygdrive/c/Users/Yasmin Soares/CLionProjects/untitled/DoublyLinkedList.h
+
+/cygdrive/c/Users/Yasmin Soares/CLionProjects/untitled/Node.h
+
+/cygdrive/c/Users/Yasmin Soares/CLionProjects/untitled/main.cpp
+iostream
+-
+utility
+-
+cassert
+-
+fstream
+-
+Map.h
+/cygdrive/c/Users/Yasmin Soares/CLionProjects/untitled/Map.h
+
